@@ -1,4 +1,5 @@
 ### Hi there, I'm <strong>Riya Gupta</strong> 👋️
+========================
 
 ![](https://komarev.com/ghpvc/?username=riyagupta0409&color=blue&label=PROFILE+VIEWS)
 
@@ -29,8 +30,6 @@
 <img align="left"   src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <br/>
 <br/>
-
-[![riyagupta0409](https://github-readme-stats.vercel.app/api/top-langs?username=riyagupta0409&show_icons=true&locale=en&layout=compact&theme=radical&align=left)]
 <br/>
 [![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyagupta0409&show_icons=true&theme=radical&align=left )](https://github.com/riyagupta0409/github-readme-stats)
 <br/>
