@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-
+![riyagupta0409](https://github-readme-stats.vercel.app/api/top-langs?username=riyagupta0409&show_icons=true&locale=en&layout=compact)
 [![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyagupta0409&show_icons=true&theme=radical&align=left )](https://github.com/riyagupta0409/github-readme-stats)
 
 <br/>
