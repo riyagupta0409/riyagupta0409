@@ -13,6 +13,10 @@
 <br/>
 <br/>
 
+
+[![riyagupta0409](https://github-profile-trophy.vercel.app/?username=riyagupta0409)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## Connect with me:
 [<img align="left" alt="Linked in Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/riya-gupta-bb06a7166)
 <br/>
