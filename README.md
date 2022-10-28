@@ -7,7 +7,7 @@
 
 ## I'm a student,<br/>Developer and a learner!
 -👨‍💻️👨‍💻️I'm Currently learning Devops <br/>
--💥️💥️2021 Goals:Contribute more to open source <br/>
+-💥️💥️2023 Goals:Contribute more to open source <br/>
 -📧️How to reach me:guptariya0409@gmail.com <br/>
 -I'm a MERN stack developer <br/>
 <br/>
